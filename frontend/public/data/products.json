@@ -1,0 +1,236 @@
+{
+  "sarees": {
+    "banarasi": [
+      {
+        "id": "saree-banarasi-001",
+        "name": "Royal Banarasi Silk Saree - Red Gold",
+        "category": "sarees",
+        "subcategory": "banarasi",
+        "images": [
+          "/products/sarees/banarasi/banarasi-001-1.jpg",
+          "/products/sarees/banarasi/banarasi-001-2.jpg",
+          "/products/sarees/banarasi/banarasi-001-3.jpg",
+          "/products/sarees/banarasi/banarasi-001-4.jpg"
+        ],
+        "description": "Exquisite handwoven Banarasi silk saree with intricate gold zari work. Perfect for weddings and special occasions.",
+        "fabric": "Pure Banarasi Silk",
+        "colors": ["Red", "Gold"],
+        "work": "Zari Work",
+        "occasion": "Wedding, Festival",
+        "minOrder": 10,
+        "stockStatus": "In Stock",
+        "tags": ["wedding", "bridal", "silk", "handwoven", "traditional", "luxury"]
+      },
+      {
+        "id": "saree-banarasi-002",
+        "name": "Classic Banarasi Silk Saree - Green",
+        "category": "sarees",
+        "subcategory": "banarasi",
+        "images": [
+          "/products/sarees/banarasi/banarasi-002-1.jpg",
+          "/products/sarees/banarasi/banarasi-002-2.jpg",
+          "/products/sarees/banarasi/banarasi-002-3.jpg",
+          "/products/sarees/banarasi/banarasi-002-4.jpg",
+          "/products/sarees/banarasi/banarasi-002-5.jpg"
+        ],
+        "description": "Traditional Banarasi silk with elegant green color and golden border.",
+        "fabric": "Pure Banarasi Silk",
+        "colors": ["Green", "Gold"],
+        "work": "Zari Border",
+        "occasion": "Wedding, Party",
+        "minOrder": 10,
+        "stockStatus": "In Stock",
+        "tags": ["traditional", "silk", "party", "elegant"]
+      },
+      {
+        "id": "saree-banarasi-003",
+        "name": "Premium Banarasi Silk Saree - Maroon",
+        "category": "sarees",
+        "subcategory": "banarasi",
+        "images": [
+          "/products/sarees/banarasi/banarasi-003-1.jpg",
+          "/products/sarees/banarasi/banarasi-003-2.jpg",
+          "/products/sarees/banarasi/banarasi-003-3.jpg",
+          "/products/sarees/banarasi/banarasi-003-4.jpg"
+        ],
+        "description": "Rich maroon Banarasi silk saree with heavy zari work and traditional motifs.",
+        "fabric": "Pure Banarasi Silk",
+        "colors": ["Maroon", "Gold"],
+        "work": "Heavy Zari Work",
+        "occasion": "Wedding, Festival",
+        "minOrder": 10,
+        "stockStatus": "Limited",
+        "tags": ["wedding", "traditional", "heavy-work", "luxury"]
+      },
+      {
+        "id": "saree-banarasi-004",
+        "name": "Designer Banarasi Silk Saree - Blue",
+        "category": "sarees",
+        "subcategory": "banarasi",
+        "images": [
+          "/products/sarees/banarasi/banarasi-004-1.jpg",
+          "/products/sarees/banarasi/banarasi-004-2.jpg",
+          "/products/sarees/banarasi/banarasi-004-3.jpg",
+          "/products/sarees/banarasi/banarasi-004-4.jpg",
+          "/products/sarees/banarasi/banarasi-004-5.jpg"
+        ],
+        "description": "Contemporary blue Banarasi silk saree with modern zari patterns.",
+        "fabric": "Pure Banarasi Silk",
+        "colors": ["Blue", "Silver"],
+        "work": "Modern Zari",
+        "occasion": "Party, Reception",
+        "minOrder": 10,
+        "stockStatus": "In Stock",
+        "tags": ["designer", "modern", "party", "silk"]
+      },
+      {
+        "id": "saree-banarasi-005",
+        "name": "Elegant Banarasi Silk Saree - Pink",
+        "category": "sarees",
+        "subcategory": "banarasi",
+        "images": [
+          "/products/sarees/banarasi/banarasi-005-1.jpg",
+          "/products/sarees/banarasi/banarasi-005-2.jpg",
+          "/products/sarees/banarasi/banarasi-005-3.jpg",
+          "/products/sarees/banarasi/banarasi-005-4.jpg"
+        ],
+        "description": "Soft pink Banarasi silk saree with delicate floral zari work.",
+        "fabric": "Pure Banarasi Silk",
+        "colors": ["Pink", "Gold"],
+        "work": "Floral Zari",
+        "occasion": "Wedding, Party",
+        "minOrder": 10,
+        "stockStatus": "In Stock",
+        "tags": ["elegant", "floral", "wedding", "silk"]
+      }
+    ],
+    "kanjivaram": [
+      {
+        "id": "saree-kanjivaram-001",
+        "name": "Pure Kanjivaram Silk Saree - Maroon",
+        "category": "sarees",
+        "subcategory": "kanjivaram",
+        "images": [
+          "/products/sarees/kanjivaram/kanjivaram-001-1.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-001-2.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-001-3.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-001-4.jpg"
+        ],
+        "description": "Authentic Kanjivaram silk saree with temple border and rich maroon color.",
+        "fabric": "Pure Kanjivaram Silk",
+        "colors": ["Maroon", "Gold"],
+        "work": "Temple Border",
+        "occasion": "Wedding, Traditional",
+        "minOrder": 10,
+        "stockStatus": "In Stock",
+        "tags": ["kanjivaram", "silk", "wedding", "traditional", "temple-border"]
+      },
+      {
+        "id": "saree-kanjivaram-002",
+        "name": "Traditional Kanjivaram Silk Saree - Red",
+        "category": "sarees",
+        "subcategory": "kanjivaram",
+        "images": [
+          "/products/sarees/kanjivaram/kanjivaram-002-1.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-002-2.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-002-3.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-002-4.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-002-5.jpg"
+        ],
+        "description": "Classic red Kanjivaram silk with traditional peacock motifs and gold zari.",
+        "fabric": "Pure Kanjivaram Silk",
+        "colors": ["Red", "Gold"],
+        "work": "Peacock Motif",
+        "occasion": "Wedding, Festival",
+        "minOrder": 10,
+        "stockStatus": "In Stock",
+        "tags": ["traditional", "peacock", "wedding", "bridal"]
+      },
+      {
+        "id": "saree-kanjivaram-003",
+        "name": "Royal Kanjivaram Silk Saree - Green",
+        "category": "sarees",
+        "subcategory": "kanjivaram",
+        "images": [
+          "/products/sarees/kanjivaram/kanjivaram-003-1.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-003-2.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-003-3.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-003-4.jpg"
+        ],
+        "description": "Stunning green Kanjivaram silk with contrast border and traditional designs.",
+        "fabric": "Pure Kanjivaram Silk",
+        "colors": ["Green", "Red"],
+        "work": "Contrast Border",
+        "occasion": "Wedding, Party",
+        "minOrder": 10,
+        "stockStatus": "Limited",
+        "tags": ["royal", "contrast", "traditional", "silk"]
+      },
+      {
+        "id": "saree-kanjivaram-004",
+        "name": "Designer Kanjivaram Silk Saree - Purple",
+        "category": "sarees",
+        "subcategory": "kanjivaram",
+        "images": [
+          "/products/sarees/kanjivaram/kanjivaram-004-1.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-004-2.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-004-3.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-004-4.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-004-5.jpg"
+        ],
+        "description": "Elegant purple Kanjivaram silk with modern temple border design.",
+        "fabric": "Pure Kanjivaram Silk",
+        "colors": ["Purple", "Gold"],
+        "work": "Modern Temple Border",
+        "occasion": "Party, Reception",
+        "minOrder": 10,
+        "stockStatus": "In Stock",
+        "tags": ["designer", "modern", "elegant", "silk"]
+      },
+      {
+        "id": "saree-kanjivaram-005",
+        "name": "Premium Kanjivaram Silk Saree - Blue",
+        "category": "sarees",
+        "subcategory": "kanjivaram",
+        "images": [
+          "/products/sarees/kanjivaram/kanjivaram-005-1.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-005-2.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-005-3.jpg",
+          "/products/sarees/kanjivaram/kanjivaram-005-4.jpg"
+        ],
+        "description": "Beautiful blue Kanjivaram silk with intricate zari work and traditional motifs.",
+        "fabric": "Pure Kanjivaram Silk",
+        "colors": ["Blue", "Gold"],
+        "work": "Intricate Zari",
+        "occasion": "Wedding, Festival",
+        "minOrder": 10,
+        "stockStatus": "In Stock",
+        "tags": ["premium", "intricate", "traditional", "wedding"]
+      }
+    ]
+  }
+}
+    "silk": [
+      {
+        "id": "saree-silk-001",
+        "name": "Designer Silk Saree - Navy Blue",
+        "category": "sarees",
+        "subcategory": "silk",
+        "images": [
+          "/products/sarees/silk/silk-001-1.jpg",
+          "/products/sarees/silk/silk-001-2.jpg",
+          "/products/sarees/silk/silk-001-3.jpg",
+          "/products/sarees/silk/silk-001-4.jpg"
+        ],
+        "description": "Contemporary designer silk saree with modern patterns and elegant drape.",
+        "fabric": "Art Silk",
+        "colors": ["Navy Blue", "Silver"],
+        "work": "Printed",
+        "occasion": "Party, Casual",
+        "minOrder": 10,
+        "stockStatus": "In Stock",
+        "tags": ["silk", "designer", "modern", "party"]
+      }
+    ]
+  }
+}
