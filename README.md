@@ -9,7 +9,7 @@
 
 **A modern, responsive e-commerce website for Parvati Fabrics Limited - Celebrating 42+ years of textile excellence**
 
-[Live Demo](#) • [Report Bug](#) • [Request Feature](#)
+[Live Demo](https://parvatiethnics.com/)
 
 </div>
 
@@ -598,10 +598,10 @@ This project is proprietary and confidential. Unauthorized copying, distribution
 
 **Parvati Fabrics Limited**
 
-- 📍 **Address:** Ring Road, Surat, Gujarat, India - 395002
+- 📍 **Address:** F- Tower, Shree Kuberji Textile Park, Delhi Gate, Japan Market, Begampura, Surat, Gujarat 395003
 - 📞 **Phone:** +91 92652 82488
-- 📧 **Email:** info@parvatifabrics.com
-- 🌐 **Website:** [www.parvatifabrics.com](#)
+- 📧 **Email:** parvatifabrics@gmail.com
+- 🌐 **Website:** [www.parvatifabrics.com](https://parvatiethnics.com/)
 
 **Developer**
 
